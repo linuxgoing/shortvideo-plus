@@ -12,10 +12,11 @@
 时机紧迫所以全网宣传，目前仅接受腾讯阿里字节百度b站快手等有相关业务的企业咨询。不相关者谢绝打扰。
 
 附上原型说明做参考，完整原型图在面试时提供。有完整项目在GitHub上有私密保存做版权保护。感兴趣的可以私信微信17348547357，当天都会回复。
+项目试看版可以直接下载上面原型文件，网速慢可以下载下面的蓝凑盘地址。
 
-youtube 短视频项目 shorts ：https://wws.lanzous.com/iqokFhl0ple
+youtube 短视频项目 shorts ：https://wws.lanzous.com/iVXmvhm7dod
 
-结合国内环境pugc app 短视频化项目 ：https://wws.lanzous.com/iNBz3hl0ube
+结合国内环境pugc app 短视频化项目 ：https://wws.lanzous.com/i4Ilqhm7dxc
 
 附赠大会员制度在平台系app正确使用技巧并提高会员人数方法
 
